@@ -1,5 +1,7 @@
 package br.com.bridge;
 
+//Bridge
+
 /*	1-Janelas das platarformas.
  * Essa classe será a interface comum a todas as implementações *
  * Nela definimos que todas as janelas desenham uma janela e um botão. 
